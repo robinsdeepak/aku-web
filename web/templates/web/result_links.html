@@ -1,0 +1,37 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+{% block content %}
+    <div class="container justify-content-center mt-3" style="padding-left: 2rem; padding-right: 2rem;">
+        <div class="accordion" id="accordionExample">
+            {% for batch, semesters in result_links_data %}
+                <div class="card mb-1">
+                    <div class="row justify-content-center">
+                        <button class="btn btn-block" type="button" data-toggle="collapse"
+                                data-target="#collapse_{{ forloop.counter }}"
+                                aria-expanded="true" aria-controls="collapse_{{ forloop.counter }}">
+                            {{ batch }}
+                        </button>
+                    </div>
+
+                    <div id="collapse_{{ forloop.counter }}" class="collapse"
+                         aria-labelledby="heading_{{ forloop.counter }}"
+                         data-parent="#accordionExample">
+                        <div class="card-body" style="background-color: #dedede">
+                            <div class="container">
+                                {% for semester in semesters %}
+                                    <div class="row justify-content-center mb-1">
+                                        <a class="btn btn-link" href="{{ semesters.semester }}"
+                                           type="button">
+                                            SEMESTER: {{ semester }}
+                                        </a>
+                                    </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+{% endblock content %}
