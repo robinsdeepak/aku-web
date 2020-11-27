@@ -1,18 +1,68 @@
 {% extends 'base/base.html' %}
+{% load static %}
 
 {% block content %}
-    <div class="container search-form" style="margin-top: 2%;">
-        <div class="row justify-content-center" style="text-align: center; width: 100%; margin: 0px;">
-            <div class="col-sm-6">
-                <a href="#" class="btn btn-outline-secondary"><b>Button 1</b></a>
+
+    <div class="container" style="padding-top: 1rem;">
+
+        <div class="row justify-content-center" style="width: 100%;">
+            <div class="card text-center mb-3 mr-1 ml-1" style="width: 18rem;">
+                <div class="card-header font-weight-bold">
+                    Results
+                </div>
+                <div class="card-body">
+                    <img src="{% static 'images/medical-results.svg' %}" width="100px" alt="">
+
+                    <h5 class="card-title">Semester Results</h5>
+                    <p class="card-text">Check your AKU Semester results. (Only B.Tech Students)</p>
+                    <a href="#" class="btn btn-outline-primary">Check Results</a>
+                </div>
+            </div>
+
+
+            <div class="card text-center mb-3 mr-1 ml-1" style="width: 18rem;">
+                <div class="card-header font-weight-bold">Ranks</div>
+                <div class="card-body">
+                    <img src="{% static 'images/statistics.svg' %}" width="100px" alt="">
+
+                    <h5 class="card-title">University Ranks</h5>
+                    <p class="card-text">Check your semester wise rank University and College Rank.</p>
+                    <a href="#" class="btn btn-outline-primary">Check Your Rank</a>
+                </div>
+            </div>
+
+
+            <div class="card text-center mb-3 mr-1 ml-1" style="width: 18rem;">
+                <div class="card-header font-weight-bold">Analysis</div>
+                <div class="card-body">
+                    <img src="{% static 'images/stadistics.svg' %}" width="100px" alt="">
+                    <h5 class="card-title">Result Analysis</h5>
+                    <p class="card-text">Visualize your performance across college and university.</p>
+                    <a href="#" class="btn btn-outline-primary">Go</a>
+                </div>
+            </div>
+
+            <div class="card text-center mb-3 mr-1 ml-1" style="width: 18rem;">
+                <div class="card-header font-weight-bold">Syllabus</div>
+                <div class="card-body">
+                    <img src="{% static 'images/clipboard.svg' %}" width="100px" alt="">
+
+                    <h5 class="card-title">University Syllabus</h5>
+                    <p class="card-text">Semester wise syllabus of all branches for AKU.</p>
+                    <a href="#" class="btn btn-outline-primary">Go</a>
+                </div>
+            </div>
+            <div class="card text-center mb-3 mr-1 ml-1" style="width: 18rem;">
+                <div class="card-header font-weight-bold">Study Materials</div>
+                <div class="card-body">
+                    <img src="{% static 'images/study.svg' %}" width="100px" alt="">
+
+                    <h5 class="card-title">Book/Notes and Videos</h5>
+                    <p class="card-text">Here you can find and upload some great study materials for your semester
+                        exam.</p>
+                    <a href="#" class="btn btn-outline-primary">Go</a>
+                </div>
             </div>
         </div>
-        <hr>
-        <div class="row justify-content-center" style="text-align: center; width: 100%; margin: 0px;">
-            <div class="col-sm-6">
-                <a href="#" class="btn btn-outline-secondary"><b>Button 2</b></a>
-            </div>
-        </div>
-        <hr>
     </div>
 {% endblock content %}
