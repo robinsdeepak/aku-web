@@ -4,7 +4,7 @@
 {% block content %}
     <div class="container justify-content-center mt-3" style="padding-left: 2rem; padding-right: 2rem;">
         <div class="accordion" id="accordionExample">
-            {% for batch, semesters in result_links_data %}
+            {% for batch, branchs in rank_links_data %}
                 <div class="card mb-1 border-0" style="background-color: #dddddd">
                     <div class="row justify-content-center ">
                         <button class="btn btn-block" type="button" data-toggle="collapse"
@@ -18,13 +18,13 @@
                          data-parent="#accordionExample">
                         <div class="card-body">
                             <div class="container">
-                                {% for semester in semesters %}
+                                {% for branch in branchs %}
                                     <div class="row justify-content-center mb-1"
                                          style="background-color: #eeeeee;border: .1px solid grey; border-radius: 1rem;">
                                         <a class="btn btn-block"
-                                           href="{% url 'web:registration_input' batch semester %}"
+                                           href="{% url 'web:batch_rank' batch branch %}"
                                            type="button">
-                                            SEMESTER: {{ semester }}
+                                            BRANCH: {{ branch }}
                                         </a>
                                     </div>
                                 {% endfor %}

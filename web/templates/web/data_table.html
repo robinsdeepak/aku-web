@@ -1,0 +1,76 @@
+{#{% extends 'base/base.html' %}#}
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>CSE 2016 - 2020</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{% static 'table/css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'table/css/dataTables.bootstrap.css' %}" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+{#    <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>#}
+{#    <script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>#}
+    <![endif]-->
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4-4.1.1/dt-1.10.22/af-2.3.5/b-1.6.5/datatables.min.css"/>
+
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs4-4.1.1/dt-1.10.22/af-2.3.5/b-1.6.5/datatables.min.js"></script>
+
+    <link rel="shortcut icon" type="image/png"
+          href="https://bcebakhtiyarpur.org/wp-content/uploads/2019/01/logo-bced-f.png"/>
+</head>
+
+<body>
+{#{% block content %}#}
+<div class="container-fluid">
+
+    <h3><b>CSE 2016 - 2020</b></h3>
+    <div id='table-container'></div>
+
+</div><!-- /.container -->
+
+<!--     <footer class='footer'>
+      <div class='container-fluid'>
+        <hr />
+        <p class='pull-right'><a href='https://github.com/derekeder/csv-to-html-table'>CSV to HTML Table</a> by <a href='http://derekeder.com'>Derek Eder</a></p>
+      </div>
+    </footer> -->
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+{#<script type="text/javascript" src="{% static 'table/js/jquery.min.js' %}"></script>#}
+{#<script type="text/javascript" src="{% static 'table/js/bootstrap.min.js' %}"></script>#}
+{#<script type="text/javascript" src="{% static 'table/js/jquery.csv.min.js' %}"></script>#}
+{#    <script type="text/javascript" src="{% static 'table/js/jquery.dataTables.min.js' %}"></script>#}
+{#<script type="text/javascript" src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>#}
+{#<script type="text/javascript" src="{% static 'table/js/dataTables.bootstrap.js' %}"></script>#}
+{#<script type="text/javascript" src="{% static 'table/js/csv_to_html_table.js' %}"></script>#}
+{##}
+
+<script type="text/javascript">
+    function format_link(link) {
+        if (link)
+            return link; //"<a href='" + link + "' target='_blank'>" + link + "</a>";
+        else
+            return "";
+    }
+
+    CsvToHtmlTable.init({
+        csv_path: "{% static data_path %}",
+        element: 'table-container',
+        allow_download: false,
+        csv_options: {separator: ',', delimiter: '"'},
+        datatables_options: {"paging": false},
+        custom_formatting: [[4, format_link]]
+    });
+</script>
+{#{% endblock %}#}
+</body>
+</html>

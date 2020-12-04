@@ -1,0 +1,34 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+{% block content %}
+    <div class="container search-form" style="margin-top: 5%;">
+        <div class="row justify-content-center">
+            <div class="col-sm-6" style="text-align: center; width: 100%;">
+                <span>Check your {{ semester }} SEM result here.</span>
+                <br>
+                <span>B.Tech {{ batch }}</span>
+            </div>
+        </div>
+        <div class="row justify-content-center" style="width: 100%; margin: 10px;">
+            <div class="col-sm-6">
+
+                <form method="post">
+                    {% csrf_token %}
+                    <div class="form-group">
+                        <input id="reg" type="text" class="form-control" id="formGroupExampleInput" name="reg"
+                               placeholder="Registration Number">
+                    </div>
+                    <div class="button" style="text-align: center;">
+                        <button id="myButton" type="submit" class="btn btn-outline-secondary">Get Your result</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+{% endblock content %}
+
+
+{% block js %}
+
+{% endblock js %}
