@@ -1,0 +1,1262 @@
+{
+  "17101126901": {
+    "name": "PRASHANT KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "35.00",
+        "IA": "29.00",
+        "Total": "64.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "39.00",
+        "IA": "27.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "47.00",
+        "IA": "29.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "43.00",
+        "IA": "29.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "38.00",
+        "IA": "28.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "38.00",
+        "Total": "89.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.07",
+      "8.07",
+      "8.15",
+      "7.78",
+      "7.12",
+      "7.22",
+      "8.63",
+      "8.11",
+      "7.90"
+    ]
+  },
+  "17101126903": {
+    "name": "DHEERAJ KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "45.00",
+        "IA": "29.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "42.00",
+        "IA": "28.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "43.00",
+        "IA": "29.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "43.00",
+        "IA": "29.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "52.00",
+        "IA": "38.00",
+        "Total": "90.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.78",
+      "8.78",
+      "8.41",
+      "7.93",
+      "8.65",
+      "8.22",
+      "9.00",
+      "9.00",
+      "8.60"
+    ]
+  },
+  "17101126904": {
+    "name": "PANKAJ KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "48.00",
+        "IA": "29.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "43.00",
+        "IA": "28.00",
+        "Total": "71.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "50.00",
+        "IA": "29.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "37.00",
+        "IA": "29.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "39.00",
+        "IA": "27.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "36.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.45",
+      "7.45",
+      "7.22",
+      "6.96",
+      "6.81",
+      "7.00",
+      "7.78",
+      "8.22",
+      "7.36"
+    ]
+  },
+  "17101126905": {
+    "name": "KUNDAN KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "59.00",
+        "IA": "29.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "37.00",
+        "IA": "27.00",
+        "Total": "64.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "43.00",
+        "IA": "29.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "56.00",
+        "IA": "29.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "48.00",
+        "IA": "27.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "52.00",
+        "IA": "39.00",
+        "Total": "91.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.87",
+      "8.87",
+      "8.96",
+      "8.15",
+      "8.88",
+      "8.33",
+      "9.00",
+      "9.00",
+      "8.75"
+    ]
+  },
+  "17101126906": {
+    "name": "KUMAR VIBHAV",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "39.00",
+        "IA": "28.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "51.00",
+        "IA": "28.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "42.00",
+        "IA": "29.00",
+        "Total": "71.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "39.00",
+        "IA": "28.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "36.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.79",
+      "7.79",
+      "6.70",
+      "6.89",
+      "6.15",
+      "7.37",
+      "7.22",
+      "8.41",
+      "7.29"
+    ]
+  },
+  "17101126907": {
+    "name": "ASHUTOSH KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "40.00",
+        "IA": "29.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "40.00",
+        "IA": "28.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "50.00",
+        "IA": "29.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "48.00",
+        "IA": "29.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "53.00",
+        "IA": "29.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "52.00",
+        "IA": "38.00",
+        "Total": "90.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.61",
+      "8.61",
+      "8.70",
+      "8.63",
+      "9.15",
+      "8.56",
+      "8.89",
+      "8.70",
+      "8.73"
+    ]
+  },
+  "17101126908": {
+    "name": "VIJAY KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "44.00",
+        "IA": "29.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "42.00",
+        "IA": "27.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "31.00",
+        "IA": "29.00",
+        "Total": "60.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "51.00",
+        "IA": "29.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "43.00",
+        "IA": "27.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "37.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.50",
+      "8.50",
+      "7.74",
+      "7.52",
+      "6.96",
+      "7.89",
+      "8.48",
+      "8.33",
+      "8.00"
+    ]
+  },
+  "17101126909": {
+    "name": "VED VYAS JEE",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "54.00",
+        "IA": "29.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "35.00",
+        "IA": "29.00",
+        "Total": "64.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "43.00",
+        "IA": "30.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "46.00",
+        "IA": "29.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "53.00",
+        "IA": "29.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "28.00",
+        "IA": "18.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "52.00",
+        "IA": "39.00",
+        "Total": "91.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.26",
+      "8.26",
+      "8.44",
+      "8.11",
+      "8.42",
+      "8.41",
+      "8.15",
+      "9.00",
+      "8.38"
+    ]
+  },
+  "17101126910": {
+    "name": "RAJIV KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "53.00",
+        "IA": "29.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "38.00",
+        "IA": "27.00",
+        "Total": "65.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "39.00",
+        "IA": "29.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "47.00",
+        "IA": "26.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "37.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.94",
+      "7.94",
+      "7.33",
+      "6.67",
+      "6.08",
+      "7.26",
+      "7.82",
+      "8.33",
+      "7.42"
+    ]
+  },
+  "17102126903": {
+    "name": "SURAJ KUMAR",
+    "theory": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "49.00",
+        "IA": "29.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "021827": {
+        "Subject Name": "INDUSTRIAL POLLUTION",
+        "ESE": "51.00",
+        "IA": "26.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "061822": {
+        "Subject Name": "MANAGEMENT INFORMATION SYSTEM",
+        "ESE": "40.00",
+        "IA": "27.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "241807": {
+        "Subject Name": "SUSTAINABLE DEVELOPMENT",
+        "ESE": "47.00",
+        "IA": "28.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      }
+    },
+    "practical": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "021840": {
+        "Subject Name": "PROJECT",
+        "ESE": "52.00",
+        "IA": "37.00",
+        "Total": "89.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.05",
+      "8.05",
+      "7.28",
+      "8.04",
+      "7.00",
+      "7.37",
+      "8.36",
+      "8.42",
+      "7.83"
+    ]
+  },
+  "17102126904": {
+    "name": "ASHWINI KUMAR",
+    "theory": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "45.00",
+        "IA": "29.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "021827": {
+        "Subject Name": "INDUSTRIAL POLLUTION",
+        "ESE": "50.00",
+        "IA": "27.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "061822": {
+        "Subject Name": "MANAGEMENT INFORMATION SYSTEM",
+        "ESE": "34.00",
+        "IA": "28.00",
+        "Total": "62.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "241807": {
+        "Subject Name": "SUSTAINABLE DEVELOPMENT",
+        "ESE": "47.00",
+        "IA": "28.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      }
+    },
+    "practical": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "021840": {
+        "Subject Name": "PROJECT",
+        "ESE": "56.00",
+        "IA": "37.00",
+        "Total": "93.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.22",
+      "8.22",
+      "7.28",
+      "8.04",
+      "7.00",
+      "7.59",
+      "8.32",
+      "8.73",
+      "7.94"
+    ]
+  },
+  "17102126905": {
+    "name": "NEERAJ PRAKASH",
+    "theory": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "021827": {
+        "Subject Name": "INDUSTRIAL POLLUTION",
+        "ESE": "49.00",
+        "IA": "28.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "061822": {
+        "Subject Name": "MANAGEMENT INFORMATION SYSTEM",
+        "ESE": "39.00",
+        "IA": "20.00",
+        "Total": "59.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "241807": {
+        "Subject Name": "SUSTAINABLE DEVELOPMENT",
+        "ESE": "44.00",
+        "IA": "28.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      }
+    },
+    "practical": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "021840": {
+        "Subject Name": "PROJECT",
+        "ESE": "54.00",
+        "IA": "37.00",
+        "Total": "91.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.84",
+      "8.84",
+      "7.56",
+      "8.33",
+      "7.76",
+      "7.67",
+      "8.29",
+      "8.69",
+      "8.26"
+    ]
+  },
+  "17102126906": {
+    "name": "SANJEEV KUMAR",
+    "theory": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "36.00",
+        "IA": "28.00",
+        "Total": "64.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "021827": {
+        "Subject Name": "INDUSTRIAL POLLUTION",
+        "ESE": "32.00",
+        "IA": "27.00",
+        "Total": "59.00",
+        "Grade": "D",
+        "Credit": "4.0"
+      },
+      "061822": {
+        "Subject Name": "MANAGEMENT INFORMATION SYSTEM",
+        "ESE": "39.00",
+        "IA": "14.00",
+        "Total": "53.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "241807": {
+        "Subject Name": "SUSTAINABLE DEVELOPMENT",
+        "ESE": "33.00",
+        "IA": "28.00",
+        "Total": "61.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      }
+    },
+    "practical": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "021840": {
+        "Subject Name": "PROJECT",
+        "ESE": "56.00",
+        "IA": "37.00",
+        "Total": "93.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.65",
+      "7.65",
+      "6.12",
+      "7.18",
+      "6.56",
+      "5.48",
+      "7.93",
+      "8.04",
+      "7.09"
+    ]
+  },
+  "17102126907": {
+    "name": "VISHAL KUMAR",
+    "theory": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "46.00",
+        "IA": "29.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "021827": {
+        "Subject Name": "INDUSTRIAL POLLUTION",
+        "ESE": "48.00",
+        "IA": "26.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "061822": {
+        "Subject Name": "MANAGEMENT INFORMATION SYSTEM",
+        "ESE": "34.00",
+        "IA": "25.00",
+        "Total": "59.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "241807": {
+        "Subject Name": "SUSTAINABLE DEVELOPMENT",
+        "ESE": "41.00",
+        "IA": "28.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      }
+    },
+    "practical": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "021840": {
+        "Subject Name": "PROJECT",
+        "ESE": "54.00",
+        "IA": "36.00",
+        "Total": "90.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.53",
+      "7.53",
+      "6.68",
+      "7.59",
+      "7.20",
+      "7.33",
+      "8.64",
+      "8.46",
+      "7.63"
+    ]
+  },
+  "17102126908": {
+    "name": "VINOD KUMAR",
+    "theory": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "47.00",
+        "IA": "29.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "021827": {
+        "Subject Name": "INDUSTRIAL POLLUTION",
+        "ESE": "48.00",
+        "IA": "27.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "061822": {
+        "Subject Name": "MANAGEMENT INFORMATION SYSTEM",
+        "ESE": "39.00",
+        "IA": "28.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "241807": {
+        "Subject Name": "SUSTAINABLE DEVELOPMENT",
+        "ESE": "49.00",
+        "IA": "28.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      }
+    },
+    "practical": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "021840": {
+        "Subject Name": "PROJECT",
+        "ESE": "56.00",
+        "IA": "36.00",
+        "Total": "92.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.46",
+      "8.46",
+      "7.20",
+      "8.04",
+      "7.84",
+      "7.52",
+      "8.68",
+      "8.73",
+      "8.12"
+    ]
+  },
+  "17102126909": {
+    "name": "SHUBHAM SHARMA",
+    "theory": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "48.00",
+        "IA": "29.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "021827": {
+        "Subject Name": "INDUSTRIAL POLLUTION",
+        "ESE": "55.00",
+        "IA": "27.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "4.0"
+      },
+      "061822": {
+        "Subject Name": "MANAGEMENT INFORMATION SYSTEM",
+        "ESE": "38.00",
+        "IA": "25.00",
+        "Total": "63.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "241807": {
+        "Subject Name": "SUSTAINABLE DEVELOPMENT",
+        "ESE": "43.00",
+        "IA": "28.00",
+        "Total": "71.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      }
+    },
+    "practical": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "021840": {
+        "Subject Name": "PROJECT",
+        "ESE": "56.00",
+        "IA": "36.00",
+        "Total": "92.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.91",
+      "8.91",
+      "7.88",
+      "8.44",
+      "8.28",
+      "7.89",
+      "8.75",
+      "8.96",
+      "8.51"
+    ]
+  },
+  "17102126910": {
+    "name": "NEERAJ RAJ",
+    "theory": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "42.00",
+        "IA": "29.00",
+        "Total": "71.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "021827": {
+        "Subject Name": "INDUSTRIAL POLLUTION",
+        "ESE": "43.00",
+        "IA": "28.00",
+        "Total": "71.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "061822": {
+        "Subject Name": "MANAGEMENT INFORMATION SYSTEM",
+        "ESE": "33.00",
+        "IA": "24.00",
+        "Total": "57.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "241807": {
+        "Subject Name": "SUSTAINABLE DEVELOPMENT",
+        "ESE": "47.00",
+        "IA": "28.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      }
+    },
+    "practical": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "021840": {
+        "Subject Name": "PROJECT",
+        "ESE": "54.00",
+        "IA": "38.00",
+        "Total": "92.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.66",
+      "8.66",
+      "7.56",
+      "8.41",
+      "7.92",
+      "7.37",
+      "8.32",
+      "8.69",
+      "8.21"
+    ]
+  },
+  "17102126911": {
+    "name": "PRINCE KUMAR",
+    "theory": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "47.00",
+        "IA": "29.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "021827": {
+        "Subject Name": "INDUSTRIAL POLLUTION",
+        "ESE": "50.00",
+        "IA": "27.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "061822": {
+        "Subject Name": "MANAGEMENT INFORMATION SYSTEM",
+        "ESE": "39.00",
+        "IA": "27.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "241807": {
+        "Subject Name": "SUSTAINABLE DEVELOPMENT",
+        "ESE": "53.00",
+        "IA": "28.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "4.0"
+      }
+    },
+    "practical": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "021840": {
+        "Subject Name": "PROJECT",
+        "ESE": "56.00",
+        "IA": "36.00",
+        "Total": "92.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.76",
+      "8.76",
+      "7.60",
+      "8.26",
+      "7.88",
+      "7.63",
+      "8.39",
+      "8.88",
+      "8.28"
+    ]
+  }
+}

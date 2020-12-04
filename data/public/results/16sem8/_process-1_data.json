@@ -1,0 +1,2592 @@
+{
+  "16101126001": {
+    "name": "AMIT MURARI",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "48.00",
+        "IA": "29.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "45.00",
+        "IA": "27.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "55.00",
+        "IA": "28.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "53.00",
+        "IA": "29.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "47.00",
+        "IA": "28.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "36.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.85",
+      "7.96",
+      "7.07",
+      "6.85",
+      "6.77",
+      "7.33",
+      "7.85",
+      "8.67",
+      "7.55"
+    ]
+  },
+  "16101126002": {
+    "name": "AMARKANT KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "49.00",
+        "IA": "29.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "35.00",
+        "IA": "27.00",
+        "Total": "62.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "53.00",
+        "IA": "29.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "50.00",
+        "IA": "29.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "47.00",
+        "IA": "28.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "37.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.11",
+      "7.82",
+      "7.04",
+      "7.04",
+      "7.19",
+      "8.07",
+      "7.89",
+      "8.44",
+      "7.58"
+    ]
+  },
+  "16101126003": {
+    "name": "HARSH KUMAR ARUN",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "40.00",
+        "IA": "27.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "44.00",
+        "IA": "28.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "50.00",
+        "IA": "29.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "47.00",
+        "IA": "27.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "36.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.44",
+      "7.89",
+      "7.41",
+      "7.37",
+      "6.73",
+      "7.96",
+      "8.22",
+      "8.44",
+      "7.69"
+    ]
+  },
+  "16101126004": {
+    "name": "SUNIL KUMAR PUSHPAM",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "45.00",
+        "IA": "29.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "37.00",
+        "IA": "27.00",
+        "Total": "64.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "47.00",
+        "IA": "29.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "43.00",
+        "IA": "29.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "36.00",
+        "IA": "28.00",
+        "Total": "64.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "37.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.00",
+      "8.59",
+      "7.93",
+      "7.44",
+      "6.85",
+      "8.11",
+      "7.96",
+      "8.30",
+      "7.90"
+    ]
+  },
+  "16101126005": {
+    "name": "AVINASH KUMAR MANDAL",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "49.00",
+        "IA": "29.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "33.00",
+        "IA": "27.00",
+        "Total": "60.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "55.00",
+        "IA": "29.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "49.00",
+        "IA": "29.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "51.00",
+        "IA": "26.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "36.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.93",
+      "8.52",
+      "7.93",
+      "7.18",
+      "7.23",
+      "7.89",
+      "8.33",
+      "8.44",
+      "7.93"
+    ]
+  },
+  "16101126006": {
+    "name": "VINIT KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "34.00",
+        "IA": "28.00",
+        "Total": "62.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "48.00",
+        "IA": "29.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "51.00",
+        "IA": "29.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "42.00",
+        "IA": "28.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "28.00",
+        "IA": "18.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "37.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.89",
+      "8.22",
+      "7.52",
+      "7.56",
+      "7.35",
+      "8.04",
+      "7.78",
+      "8.63",
+      "7.87"
+    ]
+  },
+  "16101126007": {
+    "name": "SHARIQUE HUSSAIN",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "56.00",
+        "IA": "29.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "38.00",
+        "IA": "28.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "53.00",
+        "IA": "28.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "58.00",
+        "IA": "29.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "46.00",
+        "IA": "28.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "52.00",
+        "IA": "38.00",
+        "Total": "90.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.93",
+      "8.70",
+      "7.96",
+      "7.52",
+      "7.65",
+      "8.44",
+      "8.89",
+      "9.04",
+      "8.27"
+    ]
+  },
+  "16101126008": {
+    "name": "RAVI PRAKASH",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "44.00",
+        "IA": "28.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "55.00",
+        "IA": "29.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "55.00",
+        "IA": "29.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "55.00",
+        "IA": "27.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "52.00",
+        "IA": "37.00",
+        "Total": "89.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.22",
+      "8.96",
+      "8.33",
+      "8.22",
+      "9.00",
+      "8.30",
+      "8.93",
+      "8.89",
+      "8.61"
+    ]
+  },
+  "16101126009": {
+    "name": "SUNIL KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "50.00",
+        "IA": "29.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "43.00",
+        "IA": "27.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "51.00",
+        "IA": "29.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "48.00",
+        "IA": "28.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "28.00",
+        "IA": "18.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "36.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.37",
+      "8.30",
+      "7.33",
+      "7.30",
+      "6.31",
+      "7.89",
+      "7.41",
+      "8.63",
+      "7.57"
+    ]
+  },
+  "16101126010": {
+    "name": "MRITUNJAY KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "32.00",
+        "IA": "27.00",
+        "Total": "59.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "49.00",
+        "IA": "28.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "48.00",
+        "IA": "28.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "49.00",
+        "IA": "36.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.37",
+      "7.56",
+      "6.78",
+      "6.67",
+      "6.23",
+      "7.33",
+      "7.33",
+      "8.41",
+      "7.21"
+    ]
+  },
+  "16101126011": {
+    "name": "CHANDAN KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "45.00",
+        "IA": "29.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "42.00",
+        "IA": "27.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "56.00",
+        "IA": "29.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "50.00",
+        "IA": "29.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "45.00",
+        "IA": "28.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "52.00",
+        "IA": "38.00",
+        "Total": "90.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.33",
+      "8.26",
+      "7.37",
+      "7.96",
+      "7.96",
+      "8.30",
+      "8.74",
+      "8.81",
+      "8.09"
+    ]
+  },
+  "16101126012": {
+    "name": "HRISHI RAJ ANAND",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "37.00",
+        "IA": "29.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "35.00",
+        "IA": "27.00",
+        "Total": "62.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "54.00",
+        "IA": "28.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "48.00",
+        "IA": "27.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "49.00",
+        "IA": "36.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.41",
+      "7.78",
+      "7.18",
+      "6.33",
+      "6.15",
+      "7.82",
+      "7.78",
+      "8.44",
+      "7.37"
+    ]
+  },
+  "16101126013": {
+    "name": "PUSHPA RANI",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "57.00",
+        "IA": "29.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "47.00",
+        "IA": "28.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "58.00",
+        "IA": "29.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "58.00",
+        "IA": "29.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "46.00",
+        "IA": "28.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "52.00",
+        "IA": "37.00",
+        "Total": "89.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.96",
+      "8.96",
+      "8.00",
+      "8.04",
+      "8.31",
+      "8.41",
+      "9.33",
+      "8.78",
+      "8.47"
+    ]
+  },
+  "16101126014": {
+    "name": "RAVI KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "55.00",
+        "IA": "29.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "43.00",
+        "IA": "28.00",
+        "Total": "71.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "58.00",
+        "IA": "29.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "49.00",
+        "IA": "27.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "52.00",
+        "IA": "39.00",
+        "Total": "91.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.00",
+      "8.63",
+      "7.67",
+      "8.48",
+      "9.00",
+      "8.70",
+      "9.00",
+      "9.22",
+      "8.59"
+    ]
+  },
+  "16101126015": {
+    "name": "RAUSHAN RAJA",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "49.00",
+        "IA": "29.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "39.00",
+        "IA": "28.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "54.00",
+        "IA": "29.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "50.00",
+        "IA": "29.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "51.00",
+        "IA": "28.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "37.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.59",
+      "8.04",
+      "7.26",
+      "7.48",
+      "7.35",
+      "8.33",
+      "8.26",
+      "8.44",
+      "7.85"
+    ]
+  },
+  "16101126016": {
+    "name": "RAVI RAJ",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "53.00",
+        "IA": "29.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "35.00",
+        "IA": "28.00",
+        "Total": "63.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "51.00",
+        "IA": "29.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "50.00",
+        "IA": "29.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "58.00",
+        "IA": "27.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "38.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.07",
+      "7.70",
+      "7.18",
+      "7.11",
+      "7.12",
+      "7.93",
+      "8.07",
+      "8.67",
+      "7.61"
+    ]
+  },
+  "16101126017": {
+    "name": "MD MOIN ANSARI",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "56.00",
+        "IA": "29.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "43.00",
+        "IA": "27.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "56.00",
+        "IA": "28.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "45.00",
+        "IA": "29.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "58.00",
+        "IA": "28.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "37.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.56",
+      "8.52",
+      "7.78",
+      "7.96",
+      "8.27",
+      "7.96",
+      "8.85",
+      "8.78",
+      "8.21"
+    ]
+  },
+  "16101126018": {
+    "name": "SUMIT KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "44.00",
+        "IA": "28.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "46.00",
+        "IA": "29.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "57.00",
+        "IA": "29.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "60.00",
+        "IA": "28.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "52.00",
+        "IA": "38.00",
+        "Total": "90.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.07",
+      "8.96",
+      "7.78",
+      "8.07",
+      "7.88",
+      "8.26",
+      "9.04",
+      "9.15",
+      "8.40"
+    ]
+  },
+  "16101126019": {
+    "name": "SHASHI SHEKHAR KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "47.00",
+        "IA": "29.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "40.00",
+        "IA": "28.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "53.00",
+        "IA": "28.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "58.00",
+        "IA": "28.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "37.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.18",
+      "8.07",
+      "7.00",
+      "7.37",
+      "6.50",
+      "7.26",
+      "7.48",
+      "8.67",
+      "7.45"
+    ]
+  },
+  "16101126020": {
+    "name": "DEEPAK KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "47.00",
+        "IA": "29.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "39.00",
+        "IA": "27.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "48.00",
+        "IA": "28.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "49.00",
+        "IA": "28.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "57.00",
+        "IA": "27.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "28.00",
+        "IA": "18.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "36.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.18",
+      "8.22",
+      "6.96",
+      "8.52",
+      "6.58",
+      "7.04",
+      "8.00",
+      "8.52",
+      "7.63"
+    ]
+  },
+  "16101126021": {
+    "name": "YOGESH KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "54.00",
+        "IA": "29.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "45.00",
+        "IA": "28.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "47.00",
+        "IA": "29.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "55.00",
+        "IA": "29.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "61.00",
+        "IA": "27.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "28.00",
+        "IA": "18.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "38.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.67",
+      "8.41",
+      "7.07",
+      "7.93",
+      "6.85",
+      "8.04",
+      "8.41",
+      "8.85",
+      "7.91"
+    ]
+  },
+  "16101126023": {
+    "name": "OM PRAKASH MANDAL",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "47.00",
+        "IA": "29.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "48.00",
+        "IA": "29.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "53.00",
+        "IA": "29.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "49.00",
+        "IA": "28.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "36.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.59",
+      "9.04",
+      "8.15",
+      "8.04",
+      "8.27",
+      "8.56",
+      "8.78",
+      "8.67",
+      "8.39"
+    ]
+  },
+  "16101126024": {
+    "name": "ABHISHEK KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "54.00",
+        "IA": "29.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "39.00",
+        "IA": "27.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "43.00",
+        "IA": "27.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "38.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.56",
+      "8.19",
+      "7.63",
+      "7.82",
+      "7.23",
+      "8.07",
+      "8.37",
+      "8.63",
+      "7.94"
+    ]
+  },
+  "16101126025": {
+    "name": "PUJA KUMARI",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "55.00",
+        "IA": "29.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "47.00",
+        "IA": "27.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "52.00",
+        "IA": "28.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "55.00",
+        "IA": "29.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "64.00",
+        "IA": "27.00",
+        "Total": "91.00",
+        "Grade": "A+",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "38.00",
+        "Total": "89.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.59",
+      "8.67",
+      "7.74",
+      "8.22",
+      "8.38",
+      "8.93",
+      "9.04",
+      "9.00",
+      "8.45"
+    ]
+  },
+  "16101126026": {
+    "name": "PRASHANT KUMAR SINHA",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "37.00",
+        "IA": "29.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "38.00",
+        "IA": "27.00",
+        "Total": "65.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "49.00",
+        "IA": "29.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "60.00",
+        "IA": "28.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "37.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.70",
+      "8.52",
+      "7.70",
+      "7.33",
+      "7.31",
+      "7.89",
+      "8.93",
+      "8.52",
+      "7.99"
+    ]
+  },
+  "16101126027": {
+    "name": "AVINASH KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "40.00",
+        "IA": "29.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "30.00",
+        "IA": "27.00",
+        "Total": "57.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "40.00",
+        "IA": "29.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "38.00",
+        "IA": "28.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "42.00",
+        "IA": "27.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "36.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "6.07",
+      "7.07",
+      "5.89",
+      "5.96",
+      "4.88",
+      "6.48",
+      "6.11",
+      "7.78",
+      "6.29"
+    ]
+  },
+  "16101126028": {
+    "name": "MD FAHAD HAROON",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "44.00",
+        "IA": "29.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "39.00",
+        "IA": "27.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "47.00",
+        "IA": "29.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "47.00",
+        "IA": "28.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "36.00",
+        "IA": "27.00",
+        "Total": "63.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "36.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.26",
+      "7.63",
+      "6.96",
+      "6.52",
+      "7.31",
+      "7.41",
+      "8.11",
+      "8.30",
+      "7.44"
+    ]
+  },
+  "16101126029": {
+    "name": "VIKASH KUMAR SINGH",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "51.00",
+        "IA": "29.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "39.00",
+        "IA": "28.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "57.00",
+        "IA": "29.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "47.00",
+        "IA": "28.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "52.00",
+        "IA": "37.00",
+        "Total": "89.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.41",
+      "8.22",
+      "7.74",
+      "8.00",
+      "7.92",
+      "8.11",
+      "8.70",
+      "8.67",
+      "8.10"
+    ]
+  },
+  "16101126030": {
+    "name": "SHALINI SINGH",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "50.00",
+        "IA": "29.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "40.00",
+        "IA": "28.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "56.00",
+        "IA": "29.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "58.00",
+        "IA": "29.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "46.00",
+        "IA": "29.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "52.00",
+        "IA": "38.00",
+        "Total": "90.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.15",
+      "9.00",
+      "8.41",
+      "7.74",
+      "8.50",
+      "8.70",
+      "8.81",
+      "9.00",
+      "8.54"
+    ]
+  },
+  "16101126031": {
+    "name": "VINOD KUMAR GUPTA",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "57.00",
+        "IA": "28.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "39.00",
+        "IA": "28.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "34.00",
+        "IA": "28.00",
+        "Total": "62.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "43.00",
+        "IA": "29.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "49.00",
+        "IA": "28.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "49.00",
+        "IA": "37.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.67",
+      "8.96",
+      "7.82",
+      "8.04",
+      "7.12",
+      "6.70",
+      "3.00",
+      "8.33",
+      "7.21"
+    ]
+  },
+  "16101126032": {
+    "name": "SURAJ KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "55.00",
+        "IA": "29.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "39.00",
+        "IA": "27.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "54.00",
+        "IA": "29.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "57.00",
+        "IA": "29.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "62.00",
+        "IA": "27.00",
+        "Total": "89.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "37.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.82",
+      "8.44",
+      "7.82",
+      "7.63",
+      "7.65",
+      "8.22",
+      "8.56",
+      "8.78",
+      "8.12"
+    ]
+  },
+  "16101126033": {
+    "name": "SANTOSH KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "49.00",
+        "IA": "29.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "38.00",
+        "IA": "27.00",
+        "Total": "65.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "50.00",
+        "IA": "29.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "58.00",
+        "IA": "29.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "55.00",
+        "IA": "28.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "38.00",
+        "Total": "89.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.63",
+      "8.44",
+      "7.48",
+      "7.82",
+      "7.54",
+      "7.96",
+      "8.67",
+      "8.56",
+      "8.01"
+    ]
+  },
+  "16101126034": {
+    "name": "ADITYA KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "53.00",
+        "IA": "29.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "38.00",
+        "IA": "29.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "51.00",
+        "IA": "28.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "56.00",
+        "IA": "29.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "36.00",
+        "IA": "27.00",
+        "Total": "63.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "37.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.56",
+      "8.59",
+      "8.33",
+      "7.74",
+      "7.08",
+      "7.89",
+      "8.52",
+      "8.44",
+      "8.02"
+    ]
+  },
+  "16101126035": {
+    "name": "VISHAL SHEKHAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "36.00",
+        "IA": "29.00",
+        "Total": "65.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "42.00",
+        "IA": "29.00",
+        "Total": "71.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "56.00",
+        "IA": "28.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "53.00",
+        "IA": "29.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "60.00",
+        "IA": "27.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "50.00",
+        "IA": "37.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "6.33",
+      "7.41",
+      "7.33",
+      "6.70",
+      "6.38",
+      "7.48",
+      "8.22",
+      "8.67",
+      "7.32"
+    ]
+  },
+  "16101126036": {
+    "name": "AJIT KUMAR GUPTA",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "48.00",
+        "IA": "29.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "46.00",
+        "IA": "28.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "52.00",
+        "IA": "28.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "56.00",
+        "IA": "29.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "43.00",
+        "IA": "27.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "51.00",
+        "IA": "37.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.96",
+      "8.19",
+      "7.93",
+      "7.18",
+      "8.04",
+      "7.63",
+      "8.44",
+      "8.74",
+      "8.01"
+    ]
+  }
+}

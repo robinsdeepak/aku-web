@@ -1,0 +1,2258 @@
+{
+  "16105126001": {
+    "name": "RITESH KUMAR",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "37.00",
+        "IA": "25.00",
+        "Total": "62.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "53.00",
+        "IA": "28.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "35.00",
+        "IA": "28.00",
+        "Total": "63.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "39.00",
+        "IA": "26.00",
+        "Total": "65.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "58.00",
+        "IA": "28.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "47.00",
+        "IA": "28.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00",
+        "IA": "18.00",
+        "Total": "42.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "54.00",
+        "IA": "36.00",
+        "Total": "90.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.26",
+      "7.93",
+      "8.42",
+      "7.80",
+      "6.77",
+      "7.14",
+      "8.20",
+      "8.42",
+      "7.86"
+    ]
+  },
+  "16105126002": {
+    "name": "SHIV SAURABH",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "45.00",
+        "IA": "25.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "56.00",
+        "IA": "28.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "49.00",
+        "IA": "28.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "38.00",
+        "IA": "24.00",
+        "Total": "62.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "58.00",
+        "IA": "26.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "44.00",
+        "IA": "28.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00",
+        "IA": "17.00",
+        "Total": "41.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "53.00",
+        "IA": "32.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "7.52",
+      "7.30",
+      "7.83",
+      "7.92",
+      "7.62",
+      "7.57",
+      "7.76",
+      "8.42",
+      "7.74"
+    ]
+  },
+  "16105126003": {
+    "name": "PRITHVI RAJ",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "53.00",
+        "IA": "23.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "56.00",
+        "IA": "28.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "50.00",
+        "IA": "29.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "47.00",
+        "IA": "26.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "55.00",
+        "IA": "26.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "40.00",
+        "IA": "28.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00",
+        "IA": "17.00",
+        "Total": "41.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "53.00",
+        "IA": "32.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "7.85",
+      "7.44",
+      "8.25",
+      "7.88",
+      "7.77",
+      "7.71",
+      "7.36",
+      "8.42",
+      "7.83"
+    ]
+  },
+  "16105126004": {
+    "name": "RASHMI SINHA",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "53.00",
+        "IA": "28.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "43.00",
+        "IA": "27.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "41.00",
+        "IA": "27.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "52.00",
+        "IA": "28.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "34.00",
+        "IA": "29.00",
+        "Total": "63.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "58.00",
+        "IA": "39.00",
+        "Total": "97.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.59",
+      "8.07",
+      "8.46",
+      "8.48",
+      "8.73",
+      "8.29",
+      "8.48",
+      "8.54",
+      "8.45"
+    ]
+  },
+  "16105126005": {
+    "name": "VIKASH BHUSHAN",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "58.00",
+        "IA": "23.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "57.00",
+        "IA": "28.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "41.00",
+        "IA": "28.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "35.00",
+        "IA": "22.00",
+        "Total": "57.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "59.00",
+        "IA": "25.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "48.00",
+        "IA": "28.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00",
+        "IA": "17.00",
+        "Total": "41.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "54.00",
+        "IA": "38.00",
+        "Total": "92.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.00",
+      "7.48",
+      "7.96",
+      "7.52",
+      "7.54",
+      "7.29",
+      "7.40",
+      "8.54",
+      "7.71"
+    ]
+  },
+  "16105126006": {
+    "name": "MUKUND KUMAR",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "40.00",
+        "IA": "24.00",
+        "Total": "64.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "51.00",
+        "IA": "28.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00*",
+        "IA": "28.00",
+        "Total": "52.00",
+        "Grade": "P",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "39.00",
+        "IA": "27.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "56.00",
+        "IA": "25.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "39.00",
+        "IA": "28.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00",
+        "IA": "17.00",
+        "Total": "41.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "56.00",
+        "IA": "38.00",
+        "Total": "94.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "7.93",
+      "7.56",
+      "7.38",
+      "7.04",
+      "6.31",
+      "6.54",
+      "7.36",
+      "7.96",
+      "7.25"
+    ]
+  },
+  "16105126007": {
+    "name": "ANIKET KUMAR PATHAK",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "44.00",
+        "IA": "26.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "55.00",
+        "IA": "27.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "55.00",
+        "IA": "28.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "37.00",
+        "IA": "26.00",
+        "Total": "63.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "50.00",
+        "IA": "26.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "50.00",
+        "IA": "29.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00",
+        "IA": "18.00",
+        "Total": "42.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "58.00",
+        "IA": "36.00",
+        "Total": "94.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.56",
+      "8.15",
+      "8.42",
+      "7.92",
+      "8.38",
+      "7.96",
+      "8.68",
+      "8.65",
+      "8.34"
+    ]
+  },
+  "16105126009": {
+    "name": "UDAY PRAKASH",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "39.00",
+        "IA": "27.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "61.00",
+        "IA": "28.00",
+        "Total": "89.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "49.00",
+        "IA": "29.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "48.00",
+        "IA": "24.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "59.00",
+        "IA": "26.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "51.00",
+        "IA": "28.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "56.00",
+        "IA": "37.00",
+        "Total": "93.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.59",
+      "8.00",
+      "8.46",
+      "8.08",
+      "7.35",
+      "7.75",
+      "7.92",
+      "8.65",
+      "8.10"
+    ]
+  },
+  "16105126010": {
+    "name": "SHAMBHAVI SHANKER",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "53.00",
+        "IA": "25.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "53.00",
+        "IA": "28.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "57.00",
+        "IA": "28.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "46.00",
+        "IA": "27.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "46.00",
+        "IA": "29.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "57.00",
+        "IA": "37.00",
+        "Total": "94.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.67",
+      "8.15",
+      "8.63",
+      "8.28",
+      "8.04",
+      "8.46",
+      "8.80",
+      "8.88",
+      "8.49"
+    ]
+  },
+  "16105126011": {
+    "name": "NILESH PRANAMI",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "44.00",
+        "IA": "26.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "54.00",
+        "IA": "28.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "42.00",
+        "IA": "28.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "42.00",
+        "IA": "24.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "54.00",
+        "IA": "26.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "40.00",
+        "IA": "29.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00",
+        "IA": "17.00",
+        "Total": "41.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "55.00",
+        "IA": "36.00",
+        "Total": "91.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "7.85",
+      "7.93",
+      "8.13",
+      "8.12",
+      "7.12",
+      "7.04",
+      "7.84",
+      "8.54",
+      "7.81"
+    ]
+  },
+  "16105126012": {
+    "name": "SURBHI SINGH",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "47.00",
+        "IA": "26.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "51.00",
+        "IA": "28.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "37.00",
+        "IA": "29.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "44.00",
+        "IA": "27.00",
+        "Total": "71.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "52.00",
+        "IA": "27.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "49.00",
+        "IA": "28.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "26.00",
+        "IA": "19.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "56.00",
+        "IA": "36.00",
+        "Total": "92.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.33",
+      "8.07",
+      "8.13",
+      "8.40",
+      "8.27",
+      "8.18",
+      "8.52",
+      "8.50",
+      "8.30"
+    ]
+  },
+  "16105126013": {
+    "name": "BRAJESH KUMAR",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "40.00",
+        "IA": "28.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "57.00",
+        "IA": "28.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "38.00",
+        "IA": "28.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "41.00",
+        "IA": "26.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "58.00",
+        "IA": "26.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "44.00",
+        "IA": "28.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00",
+        "IA": "18.00",
+        "Total": "42.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "55.00",
+        "IA": "38.00",
+        "Total": "93.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.19",
+      "8.33",
+      "8.75",
+      "7.68",
+      "7.50",
+      "7.36",
+      "7.84",
+      "8.42",
+      "8.00"
+    ]
+  },
+  "16105126014": {
+    "name": "AMARJEET KUMAR",
+    "theory": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "37.00",
+        "IA": "29.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "021827": {
+        "Subject Name": "INDUSTRIAL POLLUTION",
+        "ESE": "34.00",
+        "IA": "28.00",
+        "Total": "62.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "061822": {
+        "Subject Name": "MANAGEMENT INFORMATION SYSTEM",
+        "ESE": "32.00",
+        "IA": "25.00",
+        "Total": "57.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "241807": {
+        "Subject Name": "SUSTAINABLE DEVELOPMENT",
+        "ESE": "41.00",
+        "IA": "28.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      }
+    },
+    "practical": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "021840": {
+        "Subject Name": "PROJECT",
+        "ESE": "54.00",
+        "IA": "37.00",
+        "Total": "91.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.15",
+      "6.63",
+      "6.20",
+      "6.93",
+      "6.24",
+      "6.33",
+      "7.86",
+      "8.19",
+      "6.95"
+    ]
+  },
+  "16105126016": {
+    "name": "MAMTA KUMARI",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "42.00",
+        "IA": "26.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "55.00",
+        "IA": "28.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "56.00",
+        "IA": "28.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "42.00",
+        "IA": "24.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "58.00",
+        "IA": "26.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "52.00",
+        "IA": "28.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "26.00",
+        "IA": "19.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "57.00",
+        "IA": "38.00",
+        "Total": "95.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "7.89",
+      "8.04",
+      "8.75",
+      "8.44",
+      "8.50",
+      "8.36",
+      "8.56",
+      "8.85",
+      "8.41"
+    ]
+  },
+  "16105126017": {
+    "name": "PALLAVI BHARTI",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "50.00",
+        "IA": "25.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "55.00",
+        "IA": "28.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "44.00",
+        "IA": "29.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "44.00",
+        "IA": "24.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "60.00",
+        "IA": "24.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00",
+        "IA": "19.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "53.00",
+        "IA": "35.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.44",
+      "8.33",
+      "8.58",
+      "7.76",
+      "7.19",
+      "7.39",
+      "7.40",
+      "8.42",
+      "7.94"
+    ]
+  },
+  "16105126018": {
+    "name": "ARYAN PARTHASARTHI",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "32.00",
+        "IA": "25.00",
+        "Total": "57.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "52.00",
+        "IA": "28.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "33.00",
+        "IA": "29.00",
+        "Total": "62.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "41.00",
+        "IA": "24.00",
+        "Total": "65.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "55.00",
+        "IA": "25.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "38.00",
+        "IA": "28.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00",
+        "IA": "18.00",
+        "Total": "42.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "54.00",
+        "IA": "36.00",
+        "Total": "90.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.52",
+      "6.96",
+      "8.00",
+      "7.80",
+      "6.85",
+      "6.57",
+      "7.12",
+      "8.19",
+      "7.49"
+    ]
+  },
+  "16105126019": {
+    "name": "SHIKHA GUPTA",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "48.00",
+        "IA": "26.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "58.00",
+        "IA": "28.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "45.00",
+        "IA": "29.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "45.00",
+        "IA": "27.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "53.00",
+        "IA": "28.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "45.00",
+        "IA": "29.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "57.00",
+        "IA": "33.00",
+        "Total": "90.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.56",
+      "8.04",
+      "8.46",
+      "7.96",
+      "7.81",
+      "8.25",
+      "8.72",
+      "8.77",
+      "8.32"
+    ]
+  },
+  "16105126020": {
+    "name": "AJAY KUMAR",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "38.00",
+        "IA": "22.00",
+        "Total": "60.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "52.00",
+        "IA": "25.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "43.00",
+        "IA": "26.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "36.00",
+        "IA": "24.00",
+        "Total": "60.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "50.00",
+        "IA": "23.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "40.00",
+        "IA": "28.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "23.00",
+        "IA": "18.00",
+        "Total": "41.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "52.00",
+        "IA": "33.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.07",
+      "7.15",
+      "7.46",
+      "7.56",
+      "5.92",
+      "6.68",
+      "7.96",
+      "7.85",
+      "7.32"
+    ]
+  },
+  "16105126021": {
+    "name": "SINGH SHEELU HARINANDAN",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "60.00",
+        "IA": "26.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "57.00",
+        "IA": "28.00",
+        "Total": "85.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "51.00",
+        "IA": "28.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "51.00",
+        "IA": "26.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "55.00",
+        "IA": "28.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "56.00",
+        "IA": "33.00",
+        "Total": "89.00",
+        "Grade": "A",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.96",
+      "8.37",
+      "8.88",
+      "8.80",
+      "8.73",
+      "8.25",
+      "8.36",
+      "8.77",
+      "8.63"
+    ]
+  },
+  "16105126022": {
+    "name": "SAURABH KUMAR BITTU",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "50.00",
+        "IA": "25.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "50.00",
+        "IA": "27.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "35.00",
+        "IA": "28.00",
+        "Total": "63.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "52.00",
+        "IA": "25.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "54.00",
+        "IA": "25.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "34.00",
+        "IA": "28.00",
+        "Total": "62.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00",
+        "IA": "17.00",
+        "Total": "41.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "55.00",
+        "IA": "38.00",
+        "Total": "93.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "7.93",
+      "7.59",
+      "7.79",
+      "7.96",
+      "6.85",
+      "8.04",
+      "7.84",
+      "8.31",
+      "7.79"
+    ]
+  },
+  "16105126024": {
+    "name": "SONI KUMARI",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "40.00",
+        "IA": "26.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "57.00",
+        "IA": "27.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "36.00",
+        "IA": "29.00",
+        "Total": "65.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "50.00",
+        "IA": "25.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "54.00",
+        "IA": "25.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "26.00",
+        "IA": "19.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "52.00",
+        "IA": "34.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "7.33",
+      "7.26",
+      "7.71",
+      "7.40",
+      "7.23",
+      "7.43",
+      "7.52",
+      "8.27",
+      "7.51"
+    ]
+  },
+  "16105126025": {
+    "name": "AMARJEET KUMAR",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "45.00",
+        "IA": "24.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "53.00",
+        "IA": "28.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "35.00",
+        "IA": "29.00",
+        "Total": "64.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "41.00",
+        "IA": "25.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "53.00",
+        "IA": "26.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "42.00",
+        "IA": "28.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00",
+        "IA": "17.00",
+        "Total": "41.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "53.00",
+        "IA": "35.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "7.63",
+      "7.07",
+      "7.38",
+      "7.00",
+      "6.12",
+      "6.89",
+      "7.08",
+      "8.08",
+      "7.15"
+    ]
+  },
+  "16105126026": {
+    "name": "ADITYA DHANRAJ",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "32.00",
+        "IA": "23.00",
+        "Total": "55.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "46.00",
+        "IA": "22.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "30.00",
+        "IA": "27.00",
+        "Total": "57.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "37.00",
+        "IA": "24.00",
+        "Total": "61.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "34.00",
+        "IA": "23.00",
+        "Total": "57.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "23.00",
+        "IA": "18.00",
+        "Total": "41.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "52.00",
+        "IA": "32.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "7.15",
+      "7.41",
+      "7.67",
+      "7.48",
+      "5.50",
+      "6.32",
+      "4.28",
+      "7.38",
+      "6.65"
+    ]
+  },
+  "16105126027": {
+    "name": "SADANAND GUPTA",
+    "theory": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "49.00",
+        "IA": "29.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "021827": {
+        "Subject Name": "INDUSTRIAL POLLUTION",
+        "ESE": "45.00",
+        "IA": "27.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "061822": {
+        "Subject Name": "MANAGEMENT INFORMATION SYSTEM",
+        "ESE": "31.00",
+        "IA": "28.00",
+        "Total": "59.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "241807": {
+        "Subject Name": "SUSTAINABLE DEVELOPMENT",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      }
+    },
+    "practical": {
+      "021821": {
+        "Subject Name": "MECHANICAL SYSTEM DESIGN",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "021840": {
+        "Subject Name": "PROJECT",
+        "ESE": "53.00",
+        "IA": "37.00",
+        "Total": "90.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "7.67",
+      "7.82",
+      "7.08",
+      "7.63",
+      "7.16",
+      "7.41",
+      "8.32",
+      "8.62",
+      "7.72"
+    ]
+  },
+  "16105126028": {
+    "name": "PIYUSH KUMAR RATHORE",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "38.00",
+        "IA": "23.00",
+        "Total": "61.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "47.00",
+        "IA": "28.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "39.00",
+        "IA": "28.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "38.00",
+        "IA": "23.00",
+        "Total": "61.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "51.00",
+        "IA": "26.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "44.00",
+        "IA": "28.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "24.00",
+        "IA": "17.00",
+        "Total": "41.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "52.00",
+        "IA": "32.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "7.89",
+      "6.89",
+      "8.00",
+      "7.52",
+      "6.69",
+      "6.71",
+      "6.88",
+      "7.96",
+      "7.31"
+    ]
+  },
+  "16105126029": {
+    "name": "ABHILASH KUMAR TIWARI",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "48.00",
+        "IA": "25.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "56.00",
+        "IA": "28.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "48.00",
+        "IA": "29.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "47.00",
+        "IA": "26.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "53.00",
+        "IA": "25.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "48.00",
+        "IA": "28.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "26.00",
+        "IA": "19.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "55.00",
+        "IA": "37.00",
+        "Total": "92.00",
+        "Grade": "A+",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "8.52",
+      "7.74",
+      "8.08",
+      "8.40",
+      "8.19",
+      "7.86",
+      "8.16",
+      "8.73",
+      "8.21"
+    ]
+  },
+  "16105126030": {
+    "name": "ANOKHI KUMARI",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "42.00",
+        "IA": "27.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "47.00",
+        "IA": "27.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "47.00",
+        "IA": "28.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "57.00",
+        "IA": "37.00",
+        "Total": "94.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.59",
+      "7.70",
+      "8.54",
+      "8.38",
+      "7.92",
+      "8.52",
+      "9.16",
+      "9.00",
+      "8.47"
+    ]
+  },
+  "16105126032": {
+    "name": "SAPNA KUMARI",
+    "theory": {
+      "041867": {
+        "Subject Name": "DIGITAL IMAGE PROCESSING",
+        "ESE": "47.00",
+        "IA": "24.00",
+        "Total": "71.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051812": {
+        "Subject Name": "REAL TIME SYSTEM",
+        "ESE": "51.00",
+        "IA": "28.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "30.00",
+        "IA": "28.00",
+        "Total": "58.00",
+        "Grade": "D",
+        "Credit": "3.0"
+      },
+      "061805": {
+        "Subject Name": "INFORMATION SECURITY",
+        "ESE": "41.00",
+        "IA": "24.00",
+        "Total": "65.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "061818": {
+        "Subject Name": "E \u2013 COMMERCE & ERP",
+        "ESE": "54.00",
+        "IA": "24.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "42.00",
+        "IA": "28.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "051822": {
+        "Subject Name": "DATA MINING",
+        "ESE": "23.00",
+        "IA": "17.00",
+        "Total": "40.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "051824": {
+        "Subject Name": "PROJECT \u2013 II",
+        "ESE": "52.00",
+        "IA": "32.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "6.0"
+      }
+    },
+    "GPA": [
+      "6.78",
+      "6.67",
+      "6.96",
+      "6.80",
+      "6.04",
+      "6.39",
+      "6.20",
+      "7.96",
+      "6.72"
+    ]
+  }
+}

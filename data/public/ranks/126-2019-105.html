@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>CSE 2019 - 2023</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/dataTables.bootstrap.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+<link rel="shortcut icon" type="image/png" href="https://bcebakhtiyarpur.org/wp-content/uploads/2019/01/logo-bced-f.png"/>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145408212-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-145408212-1');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Yandex.Metrika counter -->
+<script src="https://mc.yandex.ru/metrika/watch.js" type="text/javascript" ></script>
+<script type="text/javascript" >
+try {
+    var yaCounter62872816 = new Ya.Metrika({
+        id:62872816,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true,
+        ecommerce:"dataLayer"
+    });
+} catch(e) { }
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/62872816" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script>var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(101201216);</script>
+<script async src="//static.getclicky.com/js"></script>
+</head>
+
+  <body>
+    <div class="container-fluid">
+        <h3><b>CSE 2019 - 2023</b></h3>      
+      <div id='table-container'></div>
+
+    </div><!-- /.container -->
+
+<!--     <footer class='footer'>
+      <div class='container-fluid'>
+        <hr />
+        <p class='pull-right'><a href='https://github.com/derekeder/csv-to-html-table'>CSV to HTML Table</a> by <a href='http://derekeder.com'>Derek Eder</a></p>
+      </div>
+    </footer> -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.csv.min.js"></script>
+    <script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="js/dataTables.bootstrap.js"></script>
+    <script type="text/javascript" src="js/csv_to_html_table.js"></script>
+
+
+    <script type="text/javascript">
+      function format_link(link){
+        if (link)
+          return link;//"<a href='" + link + "' target='_blank'>" + link + "</a>";
+        else
+          return "";
+      }
+
+      CsvToHtmlTable.init({
+        csv_path: 'data/126-2019-105.csv',
+        element: 'table-container', 
+        allow_download: false,
+        csv_options: {separator: ',', delimiter: '"'},
+        datatables_options: {"paging": false},
+        custom_formatting: [[4, format_link]]
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,2074 @@
+{
+  "16110126031": {
+    "name": "NITIKA",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "44.00",
+        "IA": "27.00",
+        "Total": "71.00",
+        "Grade": "B",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "38.00",
+        "IA": "27.00",
+        "Total": "65.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "53.00",
+        "IA": "27.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "45.00",
+        "IA": "28.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "28.00",
+        "IA": "18.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "29.00",
+        "IA": "18.00",
+        "Total": "47.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "59.00",
+        "IA": "37.00",
+        "Total": "96.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.67",
+      "7.48",
+      "8.32",
+      "7.77",
+      "6.96",
+      "8.19",
+      "8.88",
+      "9.00",
+      "8.15"
+    ]
+  },
+  "16110126032": {
+    "name": "SUMAN SINGH",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "46.00",
+        "IA": "25.00",
+        "Total": "71.00",
+        "Grade": "B",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "49.00",
+        "IA": "27.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "51.00",
+        "IA": "28.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "58.00",
+        "IA": "28.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "28.00",
+        "IA": "19.00",
+        "Total": "47.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "28.00",
+        "IA": "18.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "57.00",
+        "IA": "38.00",
+        "Total": "95.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.67",
+      "7.93",
+      "8.25",
+      "8.15",
+      "7.92",
+      "7.89",
+      "9.12",
+      "9.13",
+      "8.37"
+    ]
+  },
+  "16110126033": {
+    "name": "PRINCY VERMA",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "48.00",
+        "IA": "27.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "41.00",
+        "IA": "28.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "47.00",
+        "IA": "27.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "60.00",
+        "IA": "28.00",
+        "Total": "88.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "29.00",
+        "IA": "18.00",
+        "Total": "47.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "57.00",
+        "IA": "38.00",
+        "Total": "95.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "7.93",
+      "7.22",
+      "7.71",
+      "8.19",
+      "8.60",
+      "8.74",
+      "9.00",
+      "8.96",
+      "8.27"
+    ]
+  },
+  "16110126035": {
+    "name": "KUNDAN KUMAR",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "43.00",
+        "IA": "25.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "26.00",
+        "IA": "26.00",
+        "Total": "52.00",
+        "Grade": "D",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "28.00",
+        "IA": "28.00",
+        "Total": "56.00",
+        "Grade": "D",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "41.00",
+        "IA": "28.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "19.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "26.00",
+        "IA": "16.00",
+        "Total": "42.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "56.00",
+        "IA": "36.00",
+        "Total": "92.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.70",
+      "7.63",
+      "7.64",
+      "7.27",
+      "6.72",
+      "7.41",
+      "8.12",
+      "8.08",
+      "7.70"
+    ]
+  },
+  "16110126036": {
+    "name": "SADIA SAMAN",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "30.00",
+        "IA": "25.00",
+        "Total": "55.00",
+        "Grade": "D",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "34.00",
+        "IA": "26.00",
+        "Total": "60.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "42.00",
+        "IA": "28.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "40.00",
+        "IA": "28.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "29.00",
+        "IA": "18.00",
+        "Total": "47.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "57.00",
+        "IA": "36.00",
+        "Total": "93.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.04",
+      "6.59",
+      "6.68",
+      "7.27",
+      "6.16",
+      "7.48",
+      "8.04",
+      "8.63",
+      "7.34"
+    ]
+  },
+  "16110126038": {
+    "name": "BALRAM CHAUDHARY",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "42.00",
+        "IA": "27.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "44.00",
+        "IA": "26.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "48.00",
+        "IA": "28.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "52.00",
+        "IA": "28.00",
+        "Total": "80.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "26.00",
+        "IA": "16.00",
+        "Total": "42.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "56.00",
+        "IA": "36.00",
+        "Total": "92.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "7.78",
+      "6.63",
+      "6.57",
+      "5.50",
+      "5.56",
+      "7.00",
+      "7.44",
+      "9.00",
+      "6.92"
+    ]
+  },
+  "16110126039": {
+    "name": "JYOTI KUMARI",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "42.00",
+        "IA": "26.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "40.00",
+        "IA": "27.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "39.00",
+        "IA": "27.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "42.00",
+        "IA": "28.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "19.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "56.00",
+        "IA": "36.00",
+        "Total": "92.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "7.93",
+      "6.30",
+      "7.61",
+      "7.31",
+      "5.92",
+      "7.59",
+      "8.72",
+      "8.54",
+      "7.48"
+    ]
+  },
+  "16110126040": {
+    "name": "MANEESH KUMAR",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "50.00",
+        "IA": "27.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "55.00",
+        "IA": "26.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "47.00",
+        "IA": "28.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "56.00",
+        "IA": "37.00",
+        "Total": "93.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.11",
+      "7.33",
+      "6.79",
+      "7.35",
+      "8.04",
+      "7.18",
+      "8.32",
+      "9.00",
+      "7.74"
+    ]
+  },
+  "16110126041": {
+    "name": "MD. AAMIR MALLICK",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "36.00",
+        "IA": "26.00",
+        "Total": "62.00",
+        "Grade": "C",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "33.00",
+        "IA": "26.00",
+        "Total": "59.00",
+        "Grade": "D",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "46.00",
+        "IA": "28.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "33.00",
+        "IA": "28.00",
+        "Total": "61.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "29.00",
+        "IA": "18.00",
+        "Total": "47.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "57.00",
+        "IA": "38.00",
+        "Total": "95.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "7.70",
+      "6.67",
+      "7.04",
+      "6.96",
+      "6.96",
+      "7.33",
+      "8.56",
+      "8.50",
+      "7.45"
+    ]
+  },
+  "16110126042": {
+    "name": "RAJNIKANT KUMAR",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "44.00",
+        "IA": "27.00",
+        "Total": "71.00",
+        "Grade": "B",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "51.00",
+        "IA": "28.00",
+        "Total": "79.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "45.00",
+        "IA": "27.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "46.00",
+        "IA": "28.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "28.00",
+        "IA": "18.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "58.00",
+        "IA": "37.00",
+        "Total": "95.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.59",
+      "7.96",
+      "8.14",
+      "7.85",
+      "7.88",
+      "8.22",
+      "9.24",
+      "9.00",
+      "8.35"
+    ]
+  },
+  "16110126044": {
+    "name": "MUKESH KUMAR",
+    "theory": {
+      "011827": {
+        "Subject Name": "CONSTRUCTION PLANNING AND MANAGEMENT",
+        "ESE": "54.00",
+        "IA": "29.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011841": {
+        "Subject Name": "INDUSTRIAL WASTE TREATMENT",
+        "ESE": "42.00",
+        "IA": "27.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      },
+      "011850": {
+        "Subject Name": "PRE-STRESSED CONCRETE DESIGN",
+        "ESE": "48.00",
+        "IA": "29.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      },
+      "011852": {
+        "Subject Name": "IRRIGATION ENGINEERING",
+        "ESE": "52.00",
+        "IA": "29.00",
+        "Total": "81.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      },
+      "011855": {
+        "Subject Name": "GROUND WATER ENGINEERING",
+        "ESE": "62.00",
+        "IA": "28.00",
+        "Total": "90.00",
+        "Grade": "A+",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "011828": {
+        "Subject Name": "CONTRACT, SPECIFICATION & ESTIMATION",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "011829": {
+        "Subject Name": "PROJECT-II (IN CONTINUATION OF 7TH)",
+        "ESE": "52.00",
+        "IA": "38.00",
+        "Total": "90.00",
+        "Grade": "A+",
+        "Credit": "10.0"
+      }
+    },
+    "GPA": [
+      "8.81",
+      "8.33",
+      "8.04",
+      "8.15",
+      "8.19",
+      "8.56",
+      "9.26",
+      "9.22",
+      "8.57"
+    ]
+  },
+  "16110126045": {
+    "name": "AMRITA KUMARI",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "43.00",
+        "IA": "27.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "39.00",
+        "IA": "27.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "37.00",
+        "IA": "28.00",
+        "Total": "65.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "41.00",
+        "IA": "28.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "57.00",
+        "IA": "36.00",
+        "Total": "93.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.04",
+      "6.67",
+      "7.29",
+      "7.00",
+      "5.68",
+      "7.41",
+      "8.32",
+      "8.46",
+      "7.35"
+    ]
+  },
+  "16110126046": {
+    "name": "PREETAM PRATEEK",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "28.00",
+        "IA": "25.00",
+        "Total": "53.00",
+        "Grade": "D",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "29.00",
+        "IA": "26.00",
+        "Total": "55.00",
+        "Grade": "D",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "AB",
+        "IA": "28.00",
+        "Total": "28.00",
+        "Grade": "F",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "AB",
+        "IA": "28.00",
+        "Total": "28.00",
+        "Grade": "F",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "19.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "56.00",
+        "IA": "37.00",
+        "Total": "93.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.85",
+      "7.74",
+      "7.93",
+      "7.65",
+      "6.80",
+      "7.74",
+      "8.48",
+      "6.25",
+      "7.70"
+    ]
+  },
+  "16110126047": {
+    "name": "NEHA KUMARI",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "50.00",
+        "IA": "26.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "59.00",
+        "IA": "28.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "48.00",
+        "IA": "29.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "29.00",
+        "IA": "18.00",
+        "Total": "47.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "29.00",
+        "IA": "18.00",
+        "Total": "47.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "58.00",
+        "IA": "38.00",
+        "Total": "96.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.96",
+      "8.48",
+      "8.50",
+      "8.77",
+      "7.68",
+      "8.04",
+      "9.24",
+      "9.17",
+      "8.60"
+    ]
+  },
+  "16110126048": {
+    "name": "ROZI AFREEN",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "43.00",
+        "IA": "27.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "50.00",
+        "IA": "27.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "55.00",
+        "IA": "28.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "57.00",
+        "IA": "38.00",
+        "Total": "95.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.30",
+      "7.52",
+      "8.32",
+      "8.35",
+      "7.16",
+      "8.19",
+      "9.36",
+      "9.08",
+      "8.27"
+    ]
+  },
+  "16110126049": {
+    "name": "CHANDRA MOHAN PRAKASH",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "43.00",
+        "IA": "26.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "49.00",
+        "IA": "26.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "55.00",
+        "IA": "28.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "54.00",
+        "IA": "28.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "19.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "56.00",
+        "IA": "37.00",
+        "Total": "93.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.19",
+      "7.56",
+      "8.50",
+      "7.96",
+      "6.76",
+      "7.70",
+      "9.00",
+      "9.25",
+      "8.11"
+    ]
+  },
+  "16110126050": {
+    "name": "VISHAL KUMAR",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "41.00",
+        "IA": "27.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "41.00",
+        "IA": "27.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "38.00",
+        "IA": "28.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "40.00",
+        "IA": "28.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "57.00",
+        "IA": "36.00",
+        "Total": "93.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.59",
+      "7.96",
+      "7.82",
+      "8.23",
+      "7.04",
+      "7.82",
+      "8.20",
+      "8.33",
+      "8.00"
+    ]
+  },
+  "16110126051": {
+    "name": "VIKASH KUMAR",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "41.00",
+        "IA": "27.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "47.00",
+        "IA": "26.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "33.00",
+        "IA": "27.00",
+        "Total": "60.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "45.00",
+        "IA": "28.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "29.00",
+        "IA": "18.00",
+        "Total": "47.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "56.00",
+        "IA": "37.00",
+        "Total": "93.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.04",
+      "7.33",
+      "7.39",
+      "6.77",
+      "6.52",
+      "6.89",
+      "8.04",
+      "8.79",
+      "7.46"
+    ]
+  },
+  "16110126052": {
+    "name": "ANKIT KUMAR",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "41.00",
+        "IA": "27.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "57.00",
+        "IA": "27.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "35.00",
+        "IA": "28.00",
+        "Total": "63.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "42.00",
+        "IA": "28.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "18.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "57.00",
+        "IA": "37.00",
+        "Total": "94.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.22",
+      "7.82",
+      "7.68",
+      "7.62",
+      "6.72",
+      "7.59",
+      "8.60",
+      "8.88",
+      "7.88"
+    ]
+  },
+  "16110126053": {
+    "name": "AVNISH KUMAR",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "42.00",
+        "IA": "28.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "43.00",
+        "IA": "26.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "45.00",
+        "IA": "28.00",
+        "Total": "73.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "40.00",
+        "IA": "28.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "19.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "56.00",
+        "IA": "36.00",
+        "Total": "92.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "7.93",
+      "7.56",
+      "7.79",
+      "7.27",
+      "5.64",
+      "6.70",
+      "8.20",
+      "8.63",
+      "7.46"
+    ]
+  },
+  "16110126054": {
+    "name": "PRABHAT KUMAR MISHRA",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "56.00",
+        "IA": "27.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "33.00",
+        "IA": "28.00",
+        "Total": "61.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "54.00",
+        "IA": "28.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "39.00",
+        "IA": "28.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "29.00",
+        "IA": "17.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "58.00",
+        "IA": "38.00",
+        "Total": "96.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.33",
+      "7.37",
+      "7.43",
+      "7.88",
+      "8.16",
+      "7.82",
+      "8.76",
+      "8.83",
+      "8.05"
+    ]
+  },
+  "16110126055": {
+    "name": "CHITRANJAN KUMAR",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "43.00",
+        "IA": "27.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "51.00",
+        "IA": "26.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "44.00",
+        "IA": "27.00",
+        "Total": "71.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "59.00",
+        "IA": "28.00",
+        "Total": "87.00",
+        "Grade": "A",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "28.00",
+        "IA": "18.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "58.00",
+        "IA": "37.00",
+        "Total": "95.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.52",
+      "7.93",
+      "8.39",
+      "8.08",
+      "7.96",
+      "7.89",
+      "8.88",
+      "9.04",
+      "8.32"
+    ]
+  },
+  "16110126056": {
+    "name": "GUDDU KUMAR MAHTO",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "42.00",
+        "IA": "27.00",
+        "Total": "69.00",
+        "Grade": "C",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "47.00",
+        "IA": "28.00",
+        "Total": "75.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "38.00",
+        "IA": "28.00",
+        "Total": "66.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "33.00",
+        "IA": "28.00",
+        "Total": "61.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "57.00",
+        "IA": "37.00",
+        "Total": "94.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "7.37",
+      "7.18",
+      "7.25",
+      "6.88",
+      "6.24",
+      "7.44",
+      "8.32",
+      "8.58",
+      "7.40"
+    ]
+  },
+  "16110126057": {
+    "name": "SONU KUMAR ROY",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "42.00",
+        "IA": "25.00",
+        "Total": "67.00",
+        "Grade": "C",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "42.00",
+        "IA": "28.00",
+        "Total": "70.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "43.00",
+        "IA": "29.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "45.00",
+        "IA": "29.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "28.00",
+        "IA": "19.00",
+        "Total": "47.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "28.00",
+        "IA": "18.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "58.00",
+        "IA": "38.00",
+        "Total": "96.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.00",
+      "7.63",
+      "7.82",
+      "7.08",
+      "7.44",
+      "7.56",
+      "8.72",
+      "8.96",
+      "7.88"
+    ]
+  },
+  "16110126058": {
+    "name": "PRAKASH KUMAR MISHRA",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "47.00",
+        "IA": "25.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "48.00",
+        "IA": "28.00",
+        "Total": "76.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "55.00",
+        "IA": "28.00",
+        "Total": "83.00",
+        "Grade": "A",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "44.00",
+        "IA": "28.00",
+        "Total": "72.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "28.00",
+        "IA": "18.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "26.00",
+        "IA": "18.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "57.00",
+        "IA": "38.00",
+        "Total": "95.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.63",
+      "8.00",
+      "8.25",
+      "7.65",
+      "8.00",
+      "8.19",
+      "8.72",
+      "9.08",
+      "8.31"
+    ]
+  },
+  "16110126059": {
+    "name": "SHWETA",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "33.00",
+        "IA": "27.00",
+        "Total": "60.00",
+        "Grade": "C",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "37.00",
+        "IA": "27.00",
+        "Total": "64.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "50.00",
+        "IA": "28.00",
+        "Total": "78.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "40.00",
+        "IA": "28.00",
+        "Total": "68.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "27.00",
+        "IA": "17.00",
+        "Total": "44.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "29.00",
+        "IA": "17.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "57.00",
+        "IA": "37.00",
+        "Total": "94.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.33",
+      "7.78",
+      "7.68",
+      "7.27",
+      "6.52",
+      "7.59",
+      "7.52",
+      "8.58",
+      "7.66"
+    ]
+  },
+  "16110126060": {
+    "name": "VIVEK KUMAR",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "50.00",
+        "IA": "27.00",
+        "Total": "77.00",
+        "Grade": "B",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "35.00",
+        "IA": "26.00",
+        "Total": "61.00",
+        "Grade": "C",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "46.00",
+        "IA": "28.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "36.00",
+        "IA": "28.00",
+        "Total": "64.00",
+        "Grade": "C",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "28.00",
+        "IA": "17.00",
+        "Total": "45.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "25.00",
+        "IA": "17.00",
+        "Total": "42.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "56.00",
+        "IA": "38.00",
+        "Total": "94.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.22",
+      "7.67",
+      "7.50",
+      "7.15",
+      "6.60",
+      "7.33",
+      "8.52",
+      "8.63",
+      "7.69"
+    ]
+  },
+  "16110126061": {
+    "name": "SHRUTI KUMARI",
+    "theory": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "55.00",
+        "IA": "27.00",
+        "Total": "82.00",
+        "Grade": "A",
+        "Credit": "1.0"
+      },
+      "031815": {
+        "Subject Name": "MODERN CONTROL THEORY",
+        "ESE": "57.00",
+        "IA": "27.00",
+        "Total": "84.00",
+        "Grade": "A",
+        "Credit": "4.0"
+      },
+      "031828": {
+        "Subject Name": "DIRECT ENERGY CONVERSION",
+        "ESE": "58.00",
+        "IA": "28.00",
+        "Total": "86.00",
+        "Grade": "A",
+        "Credit": "4.0"
+      },
+      "241802": {
+        "Subject Name": "PERSONAL MANAGEMENT AND INDUSTRIAL RELATION",
+        "ESE": "45.00",
+        "IA": "29.00",
+        "Total": "74.00",
+        "Grade": "B",
+        "Credit": "3.0"
+      }
+    },
+    "practical": {
+      "031814": {
+        "Subject Name": "POWER SYSTEM DESIGN",
+        "ESE": "28.00",
+        "IA": "18.00",
+        "Total": "46.00",
+        "Grade": "A+",
+        "Credit": "2.0"
+      },
+      "031840": {
+        "Subject Name": "SEMINAR",
+        "ESE": "26.00",
+        "IA": "17.00",
+        "Total": "43.00",
+        "Grade": "A",
+        "Credit": "2.0"
+      },
+      "031841": {
+        "Subject Name": "PROJECT (MAJOR)",
+        "ESE": "57.00",
+        "IA": "36.00",
+        "Total": "93.00",
+        "Grade": "A+",
+        "Credit": "8.0"
+      }
+    },
+    "GPA": [
+      "8.93",
+      "8.78",
+      "8.25",
+      "8.38",
+      "8.40",
+      "8.04",
+      "9.00",
+      "9.29",
+      "8.62"
+    ]
+  }
+}
