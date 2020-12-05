@@ -1,3 +1,5 @@
+{% load static %}
+
 <html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	.:New Official Website of Aryabhatta Knowledge University:.
 </title>
@@ -53,10 +55,10 @@
             text-align: left;
         }
     </style>
-<link href="resstyles/layout.css" rel="stylesheet" type="text/css">  
+<link href={% static 'results/resstyles/layout.css' %} rel="stylesheet" type="text/css">  
     <!-- Homepage Specific Elements -->
     
-    <link href="resstyles/menu.css" rel="stylesheet" type="text/css"><link href="resstyles/tables.css" rel="stylesheet" type="text/css">
+    <link href={% static 'results/resstyles/menu.css' %} rel="stylesheet" type="text/css"><link href={% static 'results/resstyles/tables.css' %} rel="stylesheet" type="text/css">
     <script language="javascript" type="text/javascript">
         function MakeActive() {
         
@@ -87,7 +89,7 @@
         }
          @font-face {
     font-family: KrutiDev010;
-    src: url("resstyles/KrutiDev010.ttf") /* TTF file for CSS3 browsers */
+    src: url({% static 'results/resstyles/KrutiDev010.ttf' %}) /* TTF file for CSS3 browsers */
 }
     </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -183,7 +185,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
 <div class="wrapper row1">
   <div id="header" class="clear">
     <div class="fl_left"><a href="../Default.aspx">
-    <img src="images/home2.png" height="100px" width="115px" alt=""></a>
+    <img src={% static 'results/images/home2.png' %} height="100px" width="115px" alt=""></a>
     </div>
     <div class="fl_left" style="margin-top:5px; text-align:left">
       <h1><a href="../Default.aspx">Aryabhatta Knowledge <br> University</a></h1>
@@ -230,7 +232,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                 </td>
             </tr>
            <tr>
-                <td><img alt="logo" src="images/home2.png" style="text-align:center; width:91px; height:91px"><br>
+                <td><img alt="logo" src={% static 'results/images/home2.png' %} style="text-align:center; width:91px; height:91px"><br>
                     <p style="text-transform:uppercase;text-align:center; font-weight:bold;" class="style9">Aryabhatta Knowledge University, Patna</p></td>
             </tr>
             <tr>
@@ -414,7 +416,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
     </div>
     </div>
     <table width="100%"><tbody><tr style="text-align:center">
-            <td><a href="#" id="hrefPrint"><img src="images/printbutton.png" alt=""></a>
+            <td><a href="#" id="hrefPrint"><img src={% static 'results/images/printbutton.png' %} alt=""></a>
                 
             </td>
         </tr>
