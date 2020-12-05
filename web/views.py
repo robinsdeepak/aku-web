@@ -47,10 +47,18 @@ def ranks(request):
     return render(request, 'web/rank_links.html', context)
 
 
+branch_code_map = {
+    "CIVIL": 101,
+    "MECH": 102,
+    "EEE": 110,
+    "CSE": 105
+}
+
+
 def rank_page(request, batch, branch):
     context = {
         "batch": batch,
         "branch": branch,
-        "data_path": "ranks/data/126-2016-110.csv"
+        "data_path": f"ranks/data/126-{batch[:4]}-{branch_code_map[branch]}.csv"
     }
     return render(request, 'web/data_table.html', context=context)
