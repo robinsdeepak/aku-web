@@ -16,9 +16,11 @@
     </style>
 {% endblock head %}
 {% block content %}
+
     <div class="container-fluid pt-2">
         <div id='table-container'></div>
     </div>
+
 {% endblock content %}
 
 {% block js %}
@@ -36,7 +38,6 @@
             src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.js"></script>
 
     <script>
-
         CsvToHtmlTable.init({
             csv_path: "{% static data_path %}",
             element: 'table-container',
