@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 
     <title>
-        {% block title %}akubihar{% endblock %}
+        {% if title %}{{ title }}{% else %}AKU Bihar {% endif %}
     </title>
     {#    <!-- Dark Mode Begin -->#}
     {#    <style>#}
@@ -37,6 +37,7 @@
 </head>
 <body>
 {% include 'base/navbar.html' %}
+{% include 'base/messages.html' %}
 {% block content %}
 
 {% endblock content %}
