@@ -39,7 +39,7 @@
 
     <script>
         CsvToHtmlTable.init({
-            csv_path: "{% static data_path %}",
+            csv_path: "{% static data_path %}?version={{ version }}",
             element: 'table-container',
             allow_download: false,
             csv_options: {separator: ',', delimiter: '"'},

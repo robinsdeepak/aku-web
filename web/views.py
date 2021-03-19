@@ -62,6 +62,7 @@ def rank_page(request, batch, branch):
     context = {
         "batch": batch,
         "branch": branch,
-        "data_path": f"ranks/data/126-{batch[:4]}-{branch_code_map[branch]}.csv?version={version}"
+        "version": version,
+        "data_path": f"ranks/data/126-{batch[:4]}-{branch_code_map[branch]}.csv"
     }
     return render(request, 'web/data_table.html', context=context)
