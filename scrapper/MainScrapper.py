@@ -6,8 +6,18 @@ from bs4 import BeautifulSoup as bs
 from multiprocessing import current_process
 # from vars import result_links
 from selenium import webdriver as wb
+from selenium.webdriver.common.keys import Keys
 from datetime import datetime
-from mailjet_rest import Client
+# from mailjet_rest import Client
+from multiprocessing import Process
+from django.conf import settings
+import glob
+import re
+import random
+
+DATA_DIR = settings.BASE_DIR / 'data'
+LINK_TEXTS_FILE = DATA_DIR / 'input' / 'links.txt'
+LOG_FILE = DATA_DIR / 'logs.txt'
 
 
 def get_config(year, sem):
@@ -25,7 +35,7 @@ def get_config(year, sem):
         result_links = json.load(f)
         base_link = result_links[year][sem]
 
-    return reg_list[year], base_link, out_dir
+    return reg_list[year], base_link
 
 
 def start_chrome(headless=True):
@@ -99,8 +109,7 @@ def download_html(chrome, base_link, reg):
             source = chrome.page_source
             i += 1
             if "Aryabhatta Knowledge University" in source:
-                break
-        return chrome.page_source
+                return chrome.page_source
     except Exception as e:
         return None
 
@@ -116,33 +125,9 @@ def download_html_bs(base_link, reg):
             i += 1
             if req.code == 200:
                 html = req.read()
-                break
-        return html
+                return html
     except:
         return None
-
-
-def download_and_save_results(base_link, REGS, OUT_DIR, dump_json=False):
-    process_name = current_process().name.lower()
-    chrome = start_chrome()
-    json_data = dict()
-    for reg in REGS:
-        # html = download_html_bs(base_link, reg)
-        html = download_html(chrome, base_link, reg)
-        if html:
-            try:
-                with open(os.path.join(OUT_DIR, f'{reg}.html'), 'w', encoding='utf-8') as f:
-                    f.write(html)
-                if dump_json:
-                    data = to_json(html)
-                    json_data[reg] = data
-                    with open(os.path.join(OUT_DIR, f'_{process_name}_data.json'), 'w') as f:
-                        json.dump(json_data, f, indent=2)
-            except Exception as e:
-                # invalid reg
-                # print(f"Invalid Reg: {reg}! -- {e}")
-                continue
-    # chrome.quit()
 
 
 def to_json(html):
@@ -161,6 +146,7 @@ def to_json(html):
             data[tp[k]][td[0]] = {}
             for j in range(1, len(th)):
                 data[tp[k]][td[0]][th[j]] = td[j]
+
     # all_sem_gpa
     gpas = soup.find(id="ctl00_ContentPlaceHolder1_GridView3").find_all('tr')[-1].find_all('td')
     gpas = list(map(lambda x: x.text, gpas))
@@ -170,32 +156,131 @@ def to_json(html):
 
 
 class Scrapper:
-    def __init__(self, reg, sem, year):
-        self.reg = reg
+    def __init__(self, sem, year):
         self.sem = sem
         self.year = year
-        self.html = None
-        self.json_data = None
 
     def get_result_link(self):
-        return 'link'
+        with open('data/inputs/result_links.json') as f:
+            result_links = json.load(f)
+        return result_links[self.year][self.sem]
 
-    @property
-    def result(self, save=True):
+    def get_output_dir(self):
+        output_dir = os.path.join(DATA_DIR, 'output', self.year, self.sem)
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+        return output_dir
+
+    @staticmethod
+    def save_json(json_data, file_name):
+        with open(file_name, "w") as f:
+            json.dump(json_data, f, indent=2)
+
+    @staticmethod
+    def result_download(base_link, reg, save=True):
+        html = download_html_bs(base_link, reg)
+        return html
+
+    @staticmethod
+    def save_file(data, file_name):
+        with open(file_name, 'w', encoding='utf-8') as f:
+            f.write(data)
+
+    def batch_result_download(self, regs):
         base_link = self.get_result_link()
-        html = download_html_bs(base_link, self.reg)
-        if save:
-            self.html = html
-        return self.html
+        output_dir = self.get_output_dir()
+        for reg in regs:
+            result = self.result_download(base_link=base_link, reg=reg)
+            self.save_file(result, os.path.join(output_dir, f"{reg}.html"))
 
-    def batch_result_download(self):
-        pass
+    def jsonify_data(self):
+        output_dir = self.get_output_dir()
+        files = list(glob.glob(os.path.join(output_dir, "*.html")))
+        json_data = {}
 
-    @property
-    def jsonify(self):
-        if self.html:
-            data = to_json(self.html)
-        else:
-            data = to_json(self.result)
-        self.json_data = data
-        return self.json_data
+        errors = []
+        for file in files:
+            try:
+                with open(file, encoding='utf-8') as f:
+                    html = f.read()
+                json_data[file.replace('.html', '')] = to_json(html)
+            except Exception as e:
+                errors.append(f"{file}: {e}\n")
+        with open(os.path.join(output_dir, 'errors.txt'), 'w') as f:
+            f.writelines(errors)
+
+    @staticmethod
+    def process_stats(processes):
+        sleep_time = 30
+        while any(map(lambda x: x.is_alive(), processes)):
+            time.sleep(sleep_time)
+
+    def multiprocess_download(self, regs, n_process=4):
+        batch_size = len(regs) // n_process
+        process_list = []
+        for i in range(n_process):
+            process = Process(
+                target=self.batch_result_download,
+                args=(regs[i * batch_size: (i + 1) * batch_size],)
+            )
+            process_list.append(process)
+            process_list[-1].start()
+        self.process_stats(process_list)
+
+    @staticmethod
+    def check_new_entry(result_link):
+        _html = urlopen(result_link).read()
+        soup = bs(_html, features="html.parser")
+        rows = soup.find('table', {"class": "style1"}).findAll('tr')
+        _tr_texts = list(map(lambda x: re.sub(r'[;.,\s]\s*', '', x.text.lower()), rows))
+        return {
+            '_html': _html,
+            '_tr_texts': _tr_texts
+        }
+
+    @classmethod
+    def find_sem(cls, text):
+        ctext = re.sub(r'[;.,"\s]\s*', '', text.lower())
+        data = {
+            "is_btech_result": 'btech' in ctext,
+        }
+        sem = re.findall(r'\d[(st|nd|rd|th)]', text)
+        data['sem'] = f'sem{sem[0][0]}' if sem else None
+        return data
+
+    @staticmethod
+    def get_result_links(chrome, link, tr_id):
+        random_regs = [random.randint(10_000_000_000, 20_000_000_000)
+                       for i in range(2)]
+        chrome.get(link)
+        tr_list = chrome.execute_script(
+            """return document.querySelector('table[class="style1"]').querySelectorAll('tr')"""
+        )
+        new_tr = tr_list[tr_id]
+        sem_data = Scrapper.find_sem(new_tr.text)
+
+        new_tr.click()
+        tr_link = chrome.current_url
+        new_data = []
+        for reg in random_regs:
+            try:
+                chrome.get(tr_link)
+
+                # enter reg no. and submit
+                reg_inp = chrome.find_element_by_id("ctl00_ContentPlaceHolder1_TextBox_RegNo")
+                reg_inp.send_keys(reg)
+                reg_inp.send_keys(Keys.ENTER)
+
+                # if "New Official Website of Aryabhatta Knowledge University" in chrome.page_source:
+                link_data = {
+                    "sem": sem_data['sem'],
+                    "is_btech_result": sem_data['is_btech_result'],
+                    "form_link": tr_link,
+                    "res_link": chrome.current_url,
+                    "base_res_link": chrome.current_url.rstrip(str(reg))
+                }
+                new_data.append(link_data)
+            except:
+                print("ERROR: error while extracting link.")
+        if new_data:
+            return new_data[0]

@@ -9,9 +9,9 @@ def home(request):
 def result_links_view(request):
     result_links_data = [
         ('2016-2020', {1: '#', 2: '#', 3: '#', 4: '#', 5: '#', 6: '#', 7: '#', 8: '#'}),
-        ('2017-2021', {1: '#', 2: '#', 3: '#', 4: '#', 5: '#'}),
-        ('2018-2022', {1: '#', 2: '#', 3: '#'}),
-        ('2019-2023', {1: '#'})
+        ('2017-2021', {1: '#', 2: '#', 3: '#', 4: '#', 5: '#', 6: '#'}),
+        ('2018-2022', {1: '#', 2: '#', 3: '#', 4: '#'}),
+        ('2019-2023', {1: '#', 2: '#'})
     ]
     context = {
         "title": "Results",
@@ -58,9 +58,10 @@ branch_code_map = {
 
 
 def rank_page(request, batch, branch):
+    version = 1.0
     context = {
         "batch": batch,
         "branch": branch,
-        "data_path": f"ranks/data/126-{batch[:4]}-{branch_code_map[branch]}.csv"
+        "data_path": f"ranks/data/126-{batch[:4]}-{branch_code_map[branch]}.csv?version={version}"
     }
     return render(request, 'web/data_table.html', context=context)
